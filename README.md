@@ -1,2 +1,2 @@
 # Arduino-Basics
-Simple Projects mostly done by me
+Simple Projects done while learning Arduino Basics 
